@@ -41,7 +41,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>FirstApp</finalName>
+		<finalName>ExceptionTree</finalName>
 	</build>
 
 </project>
